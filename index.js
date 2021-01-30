@@ -15,4 +15,3 @@ console.log ( shouldBuyIcecream );
 console.log ( willGoSwimming );
 console.log ( isAGoodDay );
 console.log ( willBuyMilk );
-
